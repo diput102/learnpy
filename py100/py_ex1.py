@@ -1,1 +1,0 @@
-list=[100*i+10*m+n for i in [1,2,3,4] for m in [1,2,3,4] if m!=i for n in [1,2,3,4]if (n!=m)&(n!=i)]
